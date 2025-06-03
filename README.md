@@ -1,14 +1,14 @@
-# 🐍 Snake Game - Python Turtle
+ Snake Game - Python Turtle
 
 This is a simple version of the classic Snake Game built using Python's `turtle` module. The game includes basic movement, food consumption, growing tail, collision detection, and score tracking.
 
-## 📸 Game Preview
+ Game Preview
 
 > Snake starts in the center. Use the keyboard to control movement and grow by eating food!
 
 
 
-## 🎮 Controls
+ Controls
 
 | Key | Action     |
 |-----|------------|
@@ -19,7 +19,7 @@ This is a simple version of the classic Snake Game built using Python's `turtle`
 
 > Note: The direction change logic prevents the snake from reversing directly.
 
-## 🚀 Features
+ Features
 
 - Real-time snake movement
 - Random food generation
@@ -27,14 +27,14 @@ This is a simple version of the classic Snake Game built using Python's `turtle`
 - Border and self-collision detection
 - Score and high score display
 
-## 🧱 Requirements
+ Requirements
 
 - Python 3.x
 - Standard Libraries: `turtle`, `time`, `random`
 
 No additional dependencies required.
 
-## ▶️ How to Run
+ How to Run
 
 1. Clone the repository or download the code:
     ```bash
@@ -44,7 +44,7 @@ No additional dependencies required.
 
 2. Run the game using:
     ```bash
-    python snake_game.py
+    python game.py
     ```
 
 
